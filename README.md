@@ -1,6 +1,6 @@
 # real_estate_mid_term_project_2022
 ironhack DA_Jan2022
-- Members of the group: Alejandra Parra, Odelia Ahdout, Adriana Cuppuleri
+- Members of the group: Alejandra Parra, Odelia Ahdout, Adriana Cuppuleri.
 - Goal of the project: Our aim is to build a model that will predict the price of a house based on features provided in the dataset.
  - Data: The data set consists of information on some 22,000 properties sold in King County (including Seattle) between May 2014 to May 2015.
  - Brief description of the dataset: 
@@ -8,8 +8,8 @@ ironhack DA_Jan2022
   - no. rows: 21,597
   - no.features: 21 
 - High-level Planning of the project:
-  - Day 1: Data Exploration (data visualization, descriptive statistics, distinction between numerical and categorical variable, checking null              values)
-  - Day 2: Data Cleaning (renaming, lower_case, removing duplicate rows and uninformative columns, handling missing values)
-           Data Transformation (scale numerical features, encode categorical features, handling outliers)
-  - Day 3: Data Modelling for linear regression (XY split, train test split, OLS, calculating error metrics, improving model)
-  - Day 4: Preparing the slides and practicing the presentation
+  - Day 1: Data Exploration (data visualization, descriptive statistics, distinction between numerical and categorical variable, checking null              values).
+  - Day 2: Data Cleaning (renaming, lower_case, removing duplicate rows and uninformative columns, handling missing values).
+           Data Transformation (scale numerical features, encode categorical features, handling outliers).
+  - Day 3: Data Modelling for linear regression (XY split, train test split, OLS, calculating error metrics, improving model).
+  - Day 4: Preparing the slides and practicing the presentation.
