@@ -13,4 +13,3 @@ ironhack DA_Jan2022
            Data Transformation (scale numerical features, encode categorical features, handling outliers).
   - Day 3: Data Modelling for linear regression (XY split, train test split, OLS, calculating error metrics, improving model).
   - Day 4: Preparing the slides and practicing the presentation.
-Alejandra
