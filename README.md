@@ -10,5 +10,6 @@ Brief description of the dataset:
 High-level Planning of the project:
   - Day 1: Data Exploration (data visualization, descriptive statistics, distinction between numerical and categorical variable, checking null              values)
   - Day 2: Data Cleaning (renaming, lower_case, removing duplicate rows and uninformative columns, handling missing values)
-  - Day 3: Data Transformation
-  - Day 4: Data Modelling
+           Data Transformation (scale numerical features, encode categorical features, handling outliers)
+  - Day 3: Data Modelling for linear regression (XY split, train test split, OLS, calculating error metrics, improving model)
+  - Day 4: Preparing the slides and practicing the presentation
