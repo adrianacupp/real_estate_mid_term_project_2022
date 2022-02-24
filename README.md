@@ -13,3 +13,7 @@ ironhack DA_Jan2022
            Data Transformation (scale numerical features, encode categorical features, handling outliers).
   - Day 3: Data Modelling for linear regression (XY split, train test split, OLS, calculating error metrics, improving model).
   - Day 4: Preparing the slides and practicing the presentation.
+
+Click [Notebook](https://github.com/adrianacupp/real_estate_mid_term_project_2022/blob/main/real_estate_jan_2022_ahdout_cuppuleri_parra.ipynb) to see our model.
+
+See our Presentation at https://github.com/adrianacupp/real_estate_mid_term_project_2022/blob/main/FINAL_midtermproject_AOA3.pdf
