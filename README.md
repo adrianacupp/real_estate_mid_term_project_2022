@@ -16,7 +16,7 @@
   - Day 2: Data Cleaning (renaming, lower_case, removing duplicate rows and uninformative columns, handling missing values).
            Data Transformation (scale numerical features, encode categorical features, handling outliers).
   - Day 3: Creating a linear model that quantitatively relates house prices with variables. Checking the accuracy of the model, i.e. how well do these variables predict the house prices).
-  - Day 4: Presenting yourfinding with data visualization tools.
+  - Day 4: Presenting your finding with data visualization tools.
   
 
 
